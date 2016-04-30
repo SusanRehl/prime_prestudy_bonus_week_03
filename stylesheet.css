@@ -1,0 +1,20 @@
+h1 {
+	font-family: 'Edwardian Script', 'Times New Roman', serif;
+	font-size: 30px;
+	color: #0215c4;
+}
+h2 {
+	font-family: 'Times New Roman', serif;
+	font-size: 22px;
+	color: #0215c4;
+}
+h3 {
+	font-family: 'Times New Roman', serif;
+	font-size: 16px;
+	color: #000000;
+}
+p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
